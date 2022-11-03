@@ -203,6 +203,7 @@ defaults:
       share: false
       related: false
       show_date: false
+      classes: wide
   # _pages
   - scope:
       path: ""
@@ -215,6 +216,7 @@ defaults:
       share: false
       related: false
       show_date: false
+      classes: wide
   # _teaching
   - scope:
       path: ""
@@ -227,6 +229,7 @@ defaults:
       share: false
       related: false
       show_date: false
+      classes: wide
   # _publications
   - scope:
       path: ""
@@ -239,6 +242,7 @@ defaults:
       share: false
       related: false
       show_date: false
+      classes: wide
   # _portfolio
   - scope:
       path: ""
@@ -251,6 +255,7 @@ defaults:
       share: false
       related: false
       show_date: false
+      classes: wide
   # _talks
   - scope:
       path: ""
@@ -263,6 +268,7 @@ defaults:
       share: false
       related: false
       show_date: false
+      classes: wide
 
 # Sass/SCSS
 sass:
