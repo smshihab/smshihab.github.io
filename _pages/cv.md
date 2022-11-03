@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "CV"
 layout: archive
 excerpt: "cv"
 permalink: /cv/
