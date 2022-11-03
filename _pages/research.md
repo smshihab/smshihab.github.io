@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 # Working papers
+
 ## "Garment Manufacturing and Women’s Work, Reproduction, and Human Capital Accumulation"
 
 **Abstract:** In the past 30 years, Bangladesh emerged as the second largest exporter of Ready Made Garments (RMG), providing manufacturing emplpoyment opportunities to millions of poor women. This paper analyzes the long-term effects of the increased opportunities of Bangladeshi women in the RMG industry on labor force participation (LFP), reproductive and human capital accumulation choices of Bangladeshi women by exploiting spatial differences in knit- and woven-based product specialization within areas with RMG factories. I find strong evidence of increases in overall and industrial Female-LFP, and a small decline in school enrollment among working age teenagers due to increased exposure to the RMG industry. However, I find no impact on marriage rates, fertility rates, and human capital accumulation more broadly.
