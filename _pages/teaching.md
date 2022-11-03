@@ -9,7 +9,6 @@ author_profile: true
 ### Summer 2020, Fall 2021
 
 [Latest syllabus]({{ https://github.com/smshihab/smshihab.github.io }}/files/Shihab_320_Syllabus_F21.pdf)\
-
 [Sample slides: Simple Linear Regression Estimation]({{ https://github.com/smshihab/smshihab.github.io }}/files/03_Simple Linear Regression_ Estimation.pdf)
 
 ## EC 313: Intermediate Macroeconomics 
