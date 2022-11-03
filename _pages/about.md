@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an Economics PhD candidate at the University of Oregon. **I will be on the job market in the 2022-23 academic year.**
+I am an Economics PhD candidate at the University of Oregon. **I am on be on the job market in the 2022-23 academic year.**
 
-My research interests include economic growth, development, demography and applied econometrics. [Please find my job market paper here.](/jmp_current.pdf)
+My research interests include economic growth, development, demography and applied econometrics. [Please find my job market paper here.]({{ https://github.com/smshihab/smshihab.github.io }}/files/jmp_current.pdf)
 
-You can download my [CV here.](/shihabCV_nov01.pdf)
+You can download my [CV here.]({{ https://github.com/smshihab/smshihab.github.io }}/files/CV.pdf)
 
-[Another CV]({{ https://github.com/smshihab/smshihab.github.io }}/files/CV.pdf)
+[Another CV]
