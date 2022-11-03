@@ -19,6 +19,6 @@ author_profile: true
 [Sample slides: Phillips Curve - Part 1 and 2 (combined)]({{ https://github.com/smshihab/smshihab.github.io }}/files/Phillips_curve.pdf)
 
 ## EC 202: Introduction to Macroeconomics (Online course)
-### Winter 2022, Winter 2023 (Expected)
+### Winter 2022
 
 [Latest syllabus]({{ https://github.com/smshihab/smshihab.github.io }}/files/Shihab_EC202_syllabus_W2022.pdf)
