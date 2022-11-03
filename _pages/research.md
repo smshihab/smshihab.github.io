@@ -15,7 +15,7 @@ author_profile: true
 
 *Awarded “Best Field Paper 2021”, Department of Economics, University of Oregon*
 
-### The Fertility Transition in Bangladesh
+### "The Fertility Transition in Bangladesh"
 
 **Abstract:** I first document the onset of fertility transition in rural and urban Bangladesh using birth histories of women different nationally representative surveys conducted between 1976-2018. I find that the onset of the fertility transition can be dated to 1970-75 in urban areas, and to 1975-80 in rural areas. In addition to the usual correlates of realized fertility, I find that participation in land-owning agriculture is associated with increased fertility. In future, exogenous variation in land availability, or structural models will be used to further understand the mechanism of rural fertility transition in Bangladesh
 
