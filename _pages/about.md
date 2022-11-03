@@ -13,3 +13,5 @@ I am an Economics PhD candidate at the University of Oregon. **I will be on the 
 My research interests include economic growth, development, demography and applied econometrics. [Please find my job market paper here.](/jmp_current.pdf)
 
 You can download my [CV here.](/shihabCV_nov01.pdf)
+
+[Another CV]({{ https://github.com/smshihab/smshihab.github.io }}/files/CV.pdf)
