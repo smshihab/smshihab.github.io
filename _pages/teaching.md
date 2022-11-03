@@ -15,7 +15,7 @@ author_profile: true
 ### Summer 2021, Winter 2021
 
 [Latest syllabus]({{ https://github.com/smshihab/smshihab.github.io }}/files/Shihab_EC313_Syllabus_W21.pdf)\
-[Sample slides: Phillips Curve - Part 1 and 2 (combined)]({{ https://github.com/smshihab/smshihab.github.io }}/files/Phillips_curve.pdf)
+[Sample slides: Phillips Curve - Part 1 and 2 combined]({{ https://github.com/smshihab/smshihab.github.io }}/files/Phillips_curve.pdf)
 
 ## EC 202: Introduction to Macroeconomics (Online course)
 ### Winter 2022
