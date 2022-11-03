@@ -1,5 +1,7 @@
 ---
+title: "About me"
 layout: archive
+excerpt: "cv"
 permalink: /cv/
 author_profile: true
 ---
