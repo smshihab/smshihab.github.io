@@ -25,4 +25,4 @@ author_profile: true
 
 ### “The Inter-relationship between Fertility and Female Labor Force Transitions”
 
-**Abstract:** Limited data suggests that in the case of Bangladesh, reductions in fertility were followed, with some lag, by an increase in FLFP, especially in the non-farm sector. The objective of this paper is to first systematically verify that there are lags between the onset of fertility transitions and FLFP transitions using Bangladeshi data. If  are lags, this paper will attempt to identify the key characteristics of economic development that can explain the lag in FLFP transition following a fertility transition.
+**Abstract:** Limited data suggests that in the case of Bangladesh, reductions in fertility were followed, with some lag, by an increase in FLFP, especially in the non-farm sector. The objective of this paper is to first systematically verify that there are lags between the onset of fertility transitions and FLFP transitions using Bangladeshi data. If there are lags, this paper will attempt to identify the key characteristics of economic development that can explain the lag in FLFP transition following a fertility transition.
