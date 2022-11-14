@@ -9,12 +9,13 @@ author_profile: true
 ## Working papers
 
 ### "Garment Manufacturing and Women’s Work, Reproduction, and Human Capital Accumulation"
-[Link to the latest version of the paper]({{ https://github.com/smshihab/smshihab.github.io }}/files/jmp_current.pdf)
 ### *Job Marker Paper*
 
 **Abstract:** Within the past 30 years, Bangladesh emerged as the second largest exporter of garments. This industry has since given millions of Bangladeshi women their first opportunity for non-farm employment. I estimate the long-term effect of this increased employment opportunities on female labor force participation (FLFP), reproductive, and human capital accumulation choices of Bangladeshi women by employing a Bartik-style instrument. Specifically, I use variation in employment opportunities arising from differences in product specialization within areas with RMG factories. I find that increased exposure to the garment industry leads to a large increase in FLFP, and a small decline in school enrollment among working age teenage girls. However, I find no impact on marriage rates, fertility rates, literacy and overall years of schooling.
 
 *- Awarded “Best Field Paper 2021”, Department of Economics, University of Oregon*
+
+[Link to the latest version of the paper]({{ https://github.com/smshihab/smshihab.github.io }}/files/jmp_current.pdf)
 
 ### "The Fertility Transition in Bangladesh"
 
