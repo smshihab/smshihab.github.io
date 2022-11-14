@@ -9,7 +9,8 @@ author_profile: true
 ## Working papers
 
 ### "Garment Manufacturing and Women’s Work, Reproduction, and Human Capital Accumulation"
-<sup>[*(Link to the latest version of the paper)*]({{ https://github.com/smshihab/smshihab.github.io }}/files/jmp_current.pdf)</sup>
+
+### [Link to the latest version of the paper]({{ https://github.com/smshihab/smshihab.github.io }}/files/jmp_current.pdf)</sup>
 
 ### *Job Marker Paper*
 
