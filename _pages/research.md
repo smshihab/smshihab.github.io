@@ -17,7 +17,7 @@ author_profile: true
 
 [Link to the latest version of the paper]({{ https://github.com/smshihab/smshihab.github.io }}/files/jmp_current.pdf)
 
-### "The Fertility Transition in Bangladesh"
+### "Rural Fertility Transitions: The Role of Land Constraints"
 
 **Abstract:** Bangladesh saw a decline of roughly five births per woman between 1970-2020. Policy reports and commentaries often credit successful family planning programs for this fertility transition, and the role of economic conditions remains relatively unexamined. I combine retrospective birth history data from several rounds of nationally representative surveys to estimate age-specific completed fertility rates. My estimates suggest that the urban transition in Bangladesh started in the early 1970s, followed soon by the rural transition that started in the late 1970s. I find that land-owning famers experienced a slower decline in fertility. This finding, coupled with the population explosion in prior decades, suggests an important role of land-constraint in initiating fertility transitions in rural Bangladesh. The next phase of this research project will employ a structural model to further examine the mechanisms of rural fertility transitions in agrarian economies like rural Bangladesh.
 
