@@ -12,7 +12,7 @@ author_profile: true
 
 ## Working papers
 
-### Creating consistent level three geographies. *(With Mashfque Mehzad)*
+### Creating consistent level three geographies. *With Mashfque Mehzad*
 
 **Abstract:** Economic analysis increasingly relies on spatially disaggregated data to understand how local factors shape development, productivity, and inequality. Yet, administrative boundaries and spatial definitions often change over time, creating inconsistencies that bias temporal comparisons and undermine causal inference. This paper develops a methodological framework to construct a consistent geography for economic analysis by harmonizing historical and contemporary administrative boundaries in Bangladesh over 1991-2011. Using spatial intersection and area-weighting algorithms, we generate time-consistent spatial units that allow direct comparison of regional indicators across multiple census rounds. We illustrate the need to harmonize by focusing on a few key indicators obtained from census data.
 
