@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "SM Shihab Siddiqui"
 title_separator          : "-"
 name                     : &name "SM Shihab Siddiqui"
-description              : &description "Econ PhD Student at UO"
+description              : &description "Energy Economist"
 url                      : https://smshihab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smshihab/smshihab.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "SM Shihab Siddiqui"
   avatar           : "profile_pic.png"
-  bio              : "I am an Economics PhD candidate at the University of Oregon. My research interests include economic growth, development, demography and applied econometrics."
-  location         : "Eugene, Oregon"
+  bio              : "Energy Economist serving as a Principal Consultant at Opinion Dynamics. Academic research interests include economic growth, demography, and energy economics."
+  location         : "waltham, MA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "smshihab@uoregon.edu"
+  email            : "siddiqui.shihab.sm@gmail.com"
   researchgate     : 
   uri              :
   bitbucket        :
