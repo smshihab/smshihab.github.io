@@ -10,8 +10,6 @@ author_profile: true
 
 **Abstract:** The female labor force participation rate in South Asia, already among the lowest in the world, has been falling in several countries of the region. To understand the sources of this pattern, we use a decomposition method to compare the experience of Bangladesh during 1991–2011 with that of neighboring Indian states during 1987–2009. The results point to the role of structural change: changes in women’s employment rate in the neighboring Indian states relative to Bangladesh were driven more by changes in opportunities in the agricultural sector. At the same time, changes beyond economic opportunity alone may have played a role: women’s education led to increased labor force participation in Bangladesh, while the opposite was true in the Indian states.
 
-[Link to the latest version of the paper]({{https://link.springer.com/article/10.1007/s41996-024-00155-1}})
-
 ## Working papers
 
 ### Creating consistent level three geographies. *(With Mashfque Mehzad)*
